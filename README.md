@@ -8,10 +8,6 @@ Tamos IT Class помогает учителю вести урок в компь
 Разработчик: **Тилегенов Айдос Жанатулы**, Tamos Education.
 
 <p align="center">
-  <a href="https://github.com/Aidos99/tamos-it-class/releases/latest"><b>Скачать последнюю версию</b></a>
-</p>
-
-<p align="center">
   <img src=".github/assets/teacher-window.png" alt="Окно учителя" width="86%">
 </p>
 
@@ -19,7 +15,7 @@ Tamos IT Class помогает учителю вести урок в компь
 
 ## Установка в кабинете
 
-Скачайте `TamosITClass-<версия>-usb.zip` из [последнего выпуска](https://github.com/Aidos99/tamos-it-class/releases/latest), распакуйте на флешку и следуйте `Инструкция.txt`.
+Программу в новом кабинете устанавливает разработчик. Чтобы подключить кабинет, позвоните по номеру ниже.
 
 ## Поддержка
 
